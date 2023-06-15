@@ -149,7 +149,7 @@ def request_aimodel(dialect):
 
 
 def request_chatgpt(message):
-    openai.api_key = "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"
+    openai.api_key = "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"
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[

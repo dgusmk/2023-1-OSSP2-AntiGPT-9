@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-$h6@htohrps^9q^yjbla0q+ow600-alo#*n54ax$3)#fng5^i+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [".dawon.store", '3.35.140.127']
 
 
 # Application definition
